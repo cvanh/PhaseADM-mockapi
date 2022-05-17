@@ -1,0 +1,35 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "name": "t-shirts",
+            "type": "income",
+            "date": "24-5-2022",
+            "catagory": "overigekosten",
+            "vat": 21,
+            "price": 21.99,
+            "provider": "woocommerce"
+        },
+        {
+            "id": 2,
+            "name": "t-shirts",
+            "type": "income",
+            "date": "24-5-2022",
+            "catagory": "overigekosten",
+            "vat": 21,
+            "price": 21.99,
+            "provider": "PhaseADM"
+        },
+        {
+            "id": 3,
+            "name": "t-shirts",
+            "type": "income",
+            "date": "24-5-2022",
+            "catagory": "overigekosten",
+            "vat": 0,
+            "price": 21.99,
+            "provider": "PhaseADM"
+        }
+    ],
+    "balance": 399.34
+}
